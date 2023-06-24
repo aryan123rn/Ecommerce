@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background: #f8f8f8;
+}
+.top
+{
+    border-bottom: 1px solid #F0F0F0;
+    font-size: 16px;
+    a
+    {
+        color: #222222;
+        text-decoration: none;
+        padding: 5px;
+        display: inline-block;
+       
+    }
+}
+
+    .row{
+        .search{
+            background: #FFBB38;
+            border-radius: 0;
+        }
+        .height1{
+            padding: 10px;
+        }
+    
+    }
+
+    .down{
+        background: #FFBB38;
+        height: 64px;
+         
+        .font-600{
+            font-weight: bold;
+        }
+     
+        .cursor-pointer {
+            cursor: pointer;
+        }
+        .fontsize{
+            font-size: 22px;
+        }
+    }
+    .top1{
+        .row{
+            .aa{
+                height: 330px;
+            }
+            .bb{
+                margin-top: 35px;
+                height: 330px;
+            }
+        }
+        .free-shipping{
+            width: 100%;
+            background: #FFFFFF;
+        }
+    }
+    .free-shipping{
+        .row{
+            .font700{
+                font-weight: 700;
+            }
+            .logo1{
+                color: #FFBB38;
+                font-size: 45px;
+            }
+        }
+    }
+    .Gamer-World{
+        .row{
+            
+            .btn{
+                background: #FFBB38;
+                border: none;
+            }
+            gap: 20px;
+            .paddin{
+                padding-bottom: 20px;
+            }
+          
+            img{
+                object-fit: contain;
+            }
+        }
+        .ggg{
+            background-color: #FFFFFF;
+            width: 310px;
+            
+        }
+        .star{
+            color: #FFBB38;
+        }
+
+    }
+.brand{
+    .row{
+        .bg{
+            background-color: #FFFFFF;
+        }
+        .padd{
+               padding: 50px;
+            }
+        }
+        .shopbybrand{
+            .img{
+                width: 500px;
+            }
+        }
+    }
+
+.time{
+    .row{gap: 30px;
+        .tt{
+            .boold{
+                font-weight: 1000px;
+            }
+            .ttt1{
+                padding: 20px;
+
+            }
+            .rrr{
+                color: #E22319;
+            }
+            background: #E5EAEE;
+            width: 630px;
+            height: 418px;
+            padding: 50px;
+        }
+        .ttt{
+            background: #FFF5DF;
+        }
+        .pp{
+            padding-bottom:30px ;
+            width: 100%;
+        }
+     
+    }
+}
+.topsellingproduct{
+    .row{
+        width: 100%;
+        .paad{
+            padding: 50px;
+        }
+        .bgg{
+          
+            background:  #FFFFFF;
+            }
+         .bgg1{  
+             background:  #FFFFFF;
+              }
+        .star{
+            color: #FFBB38;
+        }
+        .fw{
+            font-weight: 1000px;
+            font-size: 20px;
+        }
+    }
+    .btn{
+        background-color: #FFBB38;
+    }
+}
+.bestseller{
+    .row{
+       
+        .bg{
+            padding: 10px;
+        }
+        .paddin{
+            padding: 50px;
+            background-color: #FFFFFF;
+        }
+        .box1{  
+            padding: 0px;
+            border-radius: 100%;
+            overflow: hidden;
+            margin: 15px;
+            .rr{
+                width: 40%;
+            }
+            } 
+                
+        }
+    }
+  
+.Popularsales{
+        .row{
+            .btn{
+                background: #FFBB38;
+                border: none;
+            }
+            gap: 20px;
+            .paddin{
+                padding-bottom: 20px;
+            }
+          
+            img{
+                object-fit: contain;
+            }
+        }
+        .ggg{
+            background-color: #FFFFFF;
+            width: 310px;
+            
+        }
+        .star{
+            color: #FFBB38;
+        }
+    .row{
+            .star{
+                color: #FFBB38;
+        }
+        
+    }
+}
+.New-arrivals{
+    .row{
+        .btn{
+            background: #FFBB38;
+            border: none;
+        }
+        gap: 20px;
+        .paddin{
+            padding-bottom: 20px;
+        }
+      
+        img{
+            object-fit: contain;
+        }
+    }
+    .ggg{
+        background-color: #FFFFFF;
+        width: 310px;
+        
+    }
+    .star{
+        color: #FFBB38;
+    }
+.row{
+        .star{
+            color: #FFBB38;
+    }
+    
+}
+
+}
+.footer{
+    background-color: #FFFFFF;
+    .row{
+        .bi{
+            padding: 8px;
+        }
+        .pad{
+            padding:5px ;
+        }
+        .paddi{
+            font-size: 18px;
+            padding-top: 10px;
+        }
+        .list{
+            font-style: #9A9A9A;
+            list-style:none;
+            font-size: 18px;
+            .padding{
+                padding: 5px;
+               
+            }
+        }
+        .logo{
+            text-align: center;
+            padding: 60px;    
+        }
+        
+    }
+}
+.cart{
+    .row{
+        
+        .color{
+            color: #FFBB38;
+            font-style: 200px;
+        }
+        .btn-color{
+            background-color: #FFBB38;
+        }
+    }
+    
+}
